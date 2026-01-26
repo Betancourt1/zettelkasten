@@ -10,6 +10,6 @@ Cuando una burla se vuelve “sentido común” (por ejemplo, burlarse del prete
 ¿Qué mecanismo de defensa hay detrás de mi burla a orgullos ajenos?
 
 ## Fuente
-[[inbox/202601251528]]
+[[captures/202601251528]]
 
 #burla #pretension #sentido-comun #orgullo #cultura

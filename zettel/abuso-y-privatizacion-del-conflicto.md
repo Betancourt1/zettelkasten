@@ -11,6 +11,6 @@ La respuesta social típica ante muchos abusos no es frenar al abusador sino ent
 Esto reduce el incentivo institucional a cambiar reglas, sancionar, investigar o diseñar entornos seguros.
 
 ## Fuente
-[[inbox/202601242106]]
+[[captures/202601242106]]
 
 #abuso #conflicto #poder #responsabilidad #cultura
