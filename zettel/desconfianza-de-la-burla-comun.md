@@ -12,4 +12,4 @@ Cuando una burla se vuelve “sentido común” (por ejemplo, burlarse del prete
 ## Fuente
 [[captures/202601251528]]
 
-#burla #pretension #sentido-comun #orgullo #cultura
+#burla #pretension #sentido_comun #orgullo #cultura

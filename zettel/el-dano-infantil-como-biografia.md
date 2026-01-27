@@ -9,4 +9,4 @@ El daño en la infancia no “se va”: permanece como estructura afectiva. No s
 ## Fuente
 [[inbox/202601241842]]
 
-#infancia #abuso #memoria #trauma #cita
+#infancia #abuso #memoria #trauma #quote

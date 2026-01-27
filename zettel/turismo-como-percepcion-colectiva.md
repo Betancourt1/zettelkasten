@@ -9,4 +9,4 @@ Turistear puede vivirse como una rendición: uno mira con ojos prestados (lo que
 ## Fuente
 [[inbox/202601240101]]
 
-#turismo #percepcion #colectivo #ritual #cita
+#turismo #percepcion #colectivo #ritual #quote

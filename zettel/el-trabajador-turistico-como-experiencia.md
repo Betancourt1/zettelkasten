@@ -8,4 +8,4 @@ El trabajo exige performance (atmósfera, trato, rol), no solo función.
 ## Fuente
 [[inbox/202601240103]]
 
-#turismo #trabajo #performance #servicio #cita
+#turismo #trabajo #performance #servicio #quote
