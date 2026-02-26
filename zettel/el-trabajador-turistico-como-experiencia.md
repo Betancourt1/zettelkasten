@@ -6,6 +6,6 @@ En turismo, el trabajador no solo presta un servicio: forma parte del producto c
 El trabajo exige performance (atmósfera, trato, rol), no solo función.
 
 ## Fuente
-[[inbox/202601240103]]
+[[lit/202601240103]]
 
 #turismo #trabajo #performance #servicio #quote

@@ -7,6 +7,6 @@ Turistear puede vivirse como una rendición: uno mira con ojos prestados (lo que
 - La experiencia adquiere tono casi religioso: pertenencia a una memoria compartida.
 
 ## Fuente
-[[inbox/202601240101]]
+[[lit/202601240101]]
 
 #turismo #percepcion #colectivo #ritual #quote

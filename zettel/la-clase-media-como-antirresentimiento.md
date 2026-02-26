@@ -7,6 +7,6 @@ La clase media opera como un exorcismo de la lucha de clases: convierte el resen
 - Hace invisibles a los responsables estructurales (“ni se ven”).
 
 ## Fuente
-[[inbox/202601250214]]
+[[lit/202601250214]]
 
 #clase-media #resentimiento #clase #ideologia #quote

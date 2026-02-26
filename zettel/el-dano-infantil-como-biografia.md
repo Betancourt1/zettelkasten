@@ -7,6 +7,6 @@ El daño en la infancia no “se va”: permanece como estructura afectiva. No s
 - La tristeza sustituye al rencor: memoria como lastre.
 
 ## Fuente
-[[inbox/202601241842]]
+[[lit/202601241842]]
 
 #infancia #abuso #memoria #trauma #quote
