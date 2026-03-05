@@ -1,0 +1,8 @@
+--- old
++++ new
+@@ -3,0 +3,1 @@
++> [!quote]
+@@ -5,1 +6,2 @@
+-#estuve_aqui_y_me_acorde_de_nosotros #quote 
++#estuve-aqui-y-me-acorde-de-nosotros #quote
++
