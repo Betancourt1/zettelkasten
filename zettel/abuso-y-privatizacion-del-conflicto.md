@@ -1,16 +1,16 @@
 # Abuso y privatización del conflicto
 
-La respuesta social típica ante muchos abusos no es frenar al abusador sino entrenar al abusado para evitar el daño o gestionar el conflicto en privado.
+Muchos abusos se administran socialmente como si fueran un problema de habilidad individual de la víctima. En vez de frenar al agresor o cambiar el entorno, se le pide al abusado que aprenda a detectar, esquivar, responder con tacto o cargar en silencio con las consecuencias.
 
 ## Idea
-- Se traslada el costo (tiempo, riesgo, vergüenza, reputación) hacia la víctima.
-- Se vuelve “normal” que el abuso sea un problema individual (“aprende a detectar / a mejorar / a rechazar con gracia”).
-- Exponer el abuso se trata como indiscreción (vida privada) en lugar de denuncia política.
+- El costo del abuso se desplaza hacia quien lo recibe: tiempo, miedo, vergüenza y trabajo emocional.
+- La solución aceptable suele ser privada: cuídate mejor, lee señales, rechaza sin herir, no hagas escándalo.
+- Cuando alguien expone el abuso, se interpreta como indiscreción o drama personal, no como denuncia de una estructura.
 
 ## Consecuencia
-Esto reduce el incentivo institucional a cambiar reglas, sancionar, investigar o diseñar entornos seguros.
+Si el abuso se trata como asunto privado, desaparece la presión por sancionar, rediseñar reglas o volver más seguros los espacios. La violencia queda intacta y solo cambia de manos la carga de administrarla.
 
 ## Fuente
 [[captures/202601242106]]
 
-#abuso #conflicto #poder #responsabilidad #cultura
+#abuso #conflicto #poder #responsabilidad #cultura #rehecho
