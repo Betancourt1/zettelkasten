@@ -2,32 +2,33 @@
 
 ## Objetivo
 
-Reescribir, uno por día, los zettels del blog que nacieron de generación automática y hoy no representan bien la voz de Betancourt.
+Recuperar, uno por día, los zettels del blog que nacieron de generación automática y hoy no representan bien la voz de Betancourt.
 
 ## Regla de selección
 
-En cada corrida se toma el siguiente archivo en orden alfabético dentro de `zettel/` que no tenga la marca `#rehecho`.
+En cada corrida se toma el siguiente archivo en orden alfabético dentro de `zettel/` que no tenga la marca `#no-AI`.
 
 ## Flujo por corrida
 
-1. Leer el zettel actual.
-2. Leer sus fuentes directas cuando existan (`captures/`, `lit/` u otras referencias enlazadas).
-3. Reescribir el texto con una voz más precisa, más seca y más representativa de Betancourt.
-4. Mantener el título salvo que haya una razón clara para cambiarlo.
-5. Agregar la marca `#rehecho` al archivo fuente en `repos/zettelkasten/zettel/`.
-6. Reflejar el cambio en `repos/posts/content/zettelkasten/` y agregar el tag `rehecho` en front matter.
-7. Commit y push en ambos repos.
-8. Avisar cuál zettel quedó reescrito.
+1. Elegir el siguiente zettel pendiente.
+2. Leer el zettel actual.
+3. Leer sus fuentes directas cuando existan (`captures/`, `lit/` u otras referencias enlazadas).
+4. Compartirle a Betancourt:
+   - el título,
+   - el texto actual,
+   - y las referencias mínimas necesarias para reescribirlo con sus propias palabras.
+5. No publicar nada todavía.
+6. Esperar a que Betancourt mande su versión.
+7. Reemplazar el contenido en `repos/zettelkasten/zettel/` con esa versión.
+8. Agregar la marca `#no-AI` al archivo fuente.
+9. Reflejar el cambio en `repos/posts/content/zettelkasten/` y agregar el tag `no-AI` en front matter.
+10. Commit y push en ambos repos.
 
-## Sobre la etiqueta
+## Regla de honestidad
 
-Betancourt pidió usar `#no-AI`, pero si la reescritura la hago yo seguiría siendo una intervención de IA. Marcarla como `#no-AI` sería falso.
+La etiqueta `#no-AI` solo se usa cuando el texto final fue escrito por Betancourt. No se usa para reescrituras hechas por el agente.
 
-Por eso, para esta automatización uso `#rehecho` como marca honesta de que el texto ya pasó por reescritura intencional y dejó de ser parte del lote generado automáticamente.
+## Estado
 
-Si Betancourt reescribe personalmente alguno después, entonces sí puede cambiarse a `#no-AI`.
-
-## Inicio de la tanda actual
-
-- Inicio: 2026-04-21
-- Primer zettel rehecho: `abuso-y-privatizacion-del-conflicto.md`
+- Inicio de esta modalidad: 2026-04-21
+- El proceso anterior con `#rehecho` queda descartado.

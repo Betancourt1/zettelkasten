@@ -13,4 +13,4 @@ Si el abuso se trata como asunto privado, desaparece la presión por sancionar, 
 ## Fuente
 [[captures/202601242106]]
 
-#abuso #conflicto #poder #responsabilidad #cultura #rehecho
+#abuso #conflicto #poder #responsabilidad #cultura
