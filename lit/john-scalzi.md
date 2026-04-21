@@ -1,8 +1,10 @@
 # John Scalzi
 
-> Toda persona que admiras ha cometido errores graves, tiene secretos, tiene aspectos que cambiarían tu opinión de ella. Y lo mismo aplica a ti: tienes secretos, has mentido, has sido hipócrita.
+> “Toda persona que alguna vez has admirado ha cometido errores, a veces muy graves. Todos aquellos a quienes has admirado tienen secretos, y es posible que algunos de esos secretos cambiarían materialmente tu opinión sobre ellos, no siempre para mejor. Todas las personas que alguna vez has conocido tienen aspectos que tú desconoces, muchos de los cuales ni siquiera son secretos, simplemente son cosas con las que no te relacionas en tu experiencia cotidiana con ellos. Sin embargo, es posible que si fueras consciente de ellas, cambiaría tu forma de sentir hacia ellos, para bien o para mal. ¡Y ahora demos la vuelta a esto! Tú tienes aspectos que incluso tus mejores amigos desconocen, ¡y podrían sorprenderse al descubrirlos! Tú tienes secretos que no deseas compartir con los demás. Tú también has cometido errores, has mentido y has sido hipócrita”.
+> John Scalzi
 
 ## Notas
 - [[zettel/todos-tenemos-aspectos-desconocidos]]
+
 
 #etica #juicio-moral #vinculos #complejidad #quote

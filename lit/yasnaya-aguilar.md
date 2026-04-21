@@ -1,8 +1,10 @@
 # Yásnaya Aguilar
 
-> El monolingüismo en mixteco se considera un problema mientras que el monolingüismo en francés no. Lo que hay detrás tiene nombre: discriminación y colonialismo.
+> "Ora resulta que el monolingüismo en mixteco está muy mal mientras que en francés no, lo que hay detrás se llama discriminación y colonialismo."
+> -Yásnaya Aguilar-
 
 ## Notas
 - [[zettel/monolingüismo-y-colonialismo-linguistico]]
+
 
 #lenguaje #colonialismo #indigenismo #discriminacion #quote

@@ -1,8 +1,21 @@
 # Rupi Kaur
 
-> "te quiero" puede significar el deseo de querer, quedarse un poco más, no saber cómo irse, o no tener otro lugar a donde ir.
+> a veces
+> te quiero significa
+> deseo quererte
+> a veces
+> te quiero significa
+> me quedaré un poco más
+> a veces
+> te quiero significa
+> no sé cómo irme
+> a veces
+> te quiero significa
+> no tengo otro lugar a dónde ir
+> Rupi Kaur
 
 ## Notas
 - [[zettel/te-quiero-como-multivalencia]]
+
 
 #amor #vinculos #lenguaje #poesia #quote

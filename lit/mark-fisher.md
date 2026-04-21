@@ -1,11 +1,16 @@
 # Mark Fisher
 
-> Defender la tolerancia, el debate y el respeto como valores universales es ya una posición política de clase. El "diálogo" con los defensores de la explotación laboral no es neutralidad: es un privilegio ideológico que solo quienes no sufren la explotación pueden sostener.
+## Citas
 
-> Tanto el trabajo como "estar en una relación" funcionan como requisitos tácitos de existencia legítima. Sin ellos, uno no cuenta como persona real.
+> «No, no soy tolerante. No, no quiero "debatir" o "entrar en diálogo con" demócratas liberales, PoMoSofistas, opiniólogos, carnalistas, hedonistas, mencheviques, individualistas... No, no te respeto, ni solicito tal respeto para mí de tu parte. Los defensores de la tolerancia, el debate, el diálogo y el respeto anuncian sus credenciales burguesas con tal defensa. Lo siento, apologistas de la explotación laboral, pero no, no veo como mi deber proporcionar al enemigo un espacio para expresarse».
+> Mark Fisher
+
+> "El trabajo, al igual que 'estar en una relación', me otorgaría automáticamente el status de Person Real."
+> -Mark Fisher-
 
 ## Notas
 - [[zettel/no-tolerancia-al-debate-liberal]]
 - [[zettel/trabajo-y-relacion-como-ser-persona-real]]
+
 
 #politica #ideologia #clase #debate #capitalismo #trabajo #subjetividad #quote
